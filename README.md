@@ -285,11 +285,9 @@ Project Link: [https://github.com/LakshyaVerma123kl/ChatBot-Flow-Builder](https:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made by [Lakshya Verma]
 
-// ============================================
-// FILE: LICENSE
-// ============================================
+
 MIT License
 
 Copyright (c) 2024 Chatbot Flow Builder
